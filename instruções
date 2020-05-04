@@ -1,0 +1,34 @@
+Nesta entrega o projeto deverá seguir as seguintes descrições:
+Deverá ser desenvolvido um pequeno sistema para uma escola, cada grupo irá escolher seu tipo de escola (Infantil, Faculdade, Cursos, etc).
+Este sistema deverá possuir :
+1 - Página index com Link de acesso a todas as outras páginas;
+O index será a página institucional contendo qualquer tipo de propaganda sobre o curso.
+Tenham como exemplo sites de escolas.
+2 - Página cursos mostrando os cursos disponíveis.
+3 - Criar uma página para cada curso mostrando as informações sobre o curso (No mínimo 4 páginas para cursos diferentes).
+4 - Criar uma página de Contatos com um pequeno formulário possuindo os seguintes campos:
+Nome;
+E-mail;
+Assunto (este campo deverá ser um ComboBox com os assuntos: Atendimento, Secretária, Financeiro e Ouvidoria)
+Mensagem
+Botão Enviar (Validando se os campos estão em branco usando JavaScript)
+5 - Todas as páginas devem ser formatadas por um estilo em CSS
+---> TODO O SISTEMA DEVERÁ ESTAR EM UM REPOSITÓRIO DO GITHUB
+
+
+Benchmark:
+
+https://www.sp.senac.br/jsp/default.jsp?template=971.dwt&testeira=996&theme=101&type=NONE&unit=NONE
+
+https://academiagourmet.net.br/
+
+
+Estrutura:
+
+- Index
+- Cursos
+- Curso 1
+- Curso 2
+- Curso 3
+- Curso 4
+- Contato
